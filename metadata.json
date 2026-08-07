@@ -1,0 +1,10 @@
+{
+  "name": "Hand Tracking & Glow Laser Web",
+  "description": "Interactive web app using camera hand tracking to draw glowing neon laser strings between fingers, control virtual squares/objects, and use hand pinch gestures as a mouse.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
